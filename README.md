@@ -6,7 +6,7 @@ I am a web developer who has potential in both frontend (client-side) applicatio
 ## 🚀 About Me
 I'm a student majoring in computer science, which is the systematic study of computation and its applications. Algorithms, programming languages, computer systems and architecture, data structures, databases, software engineering, and other subjects are all covered under my major.I'm a student majoring in computer science, which is the systematic study of computation and its applications. Algorithms, programming languages, computer systems and architecture, data structures, databases, software engineering, and other subjects are all covered under my major.
 
-Skills: Web Application Development · Python (Programming Language) · Java · Object-Oriented Programming (OOP) · MySQL · React.js · Node.js · JavaScript · HTML5
+
 
 
 
@@ -20,3 +20,7 @@ Skills: Web Application Development · Python (Programming Language) · Java · 
 
 
 
+
+## 🛠 Skills
+ Web Application Development
+  · Python (Programming Language) · Java · Object-Oriented Programming (OOP) · MySQL · PostgresDB · React.js · Node.js · ·ExpressJS · JavaScript · TypeScript · HTML5 
