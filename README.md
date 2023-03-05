@@ -33,7 +33,7 @@ I'm a student majoring in computer science, which is the systematic study of com
   
   ## 👨‍💼 Soft Skills
 
-Communication skills · Problem-solving skills · Attention to detail · Time management · Adaptability · Teamwork · Creativity · Leadership · Positive attitude · Learning mindset
+Communication skills · Problem-solving · Attention to detail · Time management · Adaptability · Teamwork · Creativity · Leadership · Positive attitude · Learning mindset
 
 ## 🎓 Certificates
 ![Screenshot 2023-03-05 112023](https://user-images.githubusercontent.com/110059893/222952213-5cab0f9c-93c1-4325-b632-21ba3b8cd460.png)
