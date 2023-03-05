@@ -25,7 +25,7 @@ I'm a student majoring in computer science, which is the systematic study of com
  Web Application Development
   · Python (Programming Language) · Java · Object-Oriented Programming (OOP) · MySQL · PostgresDB · React.js · Node.js · ·ExpressJS · JavaScript · TypeScript · HTML5 
 
-## 🛠 Certificates
+## 🎓 Certificates
 
 
 ![python](https://user-images.githubusercontent.com/110059893/222951678-48126889-af80-44f7-a1ec-4c36cc811de5.png)
