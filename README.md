@@ -11,11 +11,14 @@ I'm a student majoring in computer science, which is the systematic study of com
 
 
 
-
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/hadysoufan)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadi-soufan-b6011919a/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hadis0ufan)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@hadisoufan)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2367BC63.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hady_A_soufan?hr_r=1)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/20323360/hadi-soufan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hadi.a.soufan/)
 
 
 
