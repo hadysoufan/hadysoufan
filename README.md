@@ -28,7 +28,7 @@ I'm a student majoring in computer science, which is the systematic study of com
 ## 🛠 Certificates
 
 [View My HackerRank Profile](https://www.hackerrank.com/hady_A_soufan?hr_r=1)
-![Python Certificate](https://drive.google.com/file/d/1hPq6wNAtYDfoGnCYfuKlrznnI0SxisYY/view?usp=sharing)
-![JavaScript Certificate](https://drive.google.com/file/d/110cbcy2OMzV8_ATqPE49kQjmB5PpsIcd/view?usp=share_link)
-![ReactJS Certificate](https://drive.google.com/file/d/1PejC3KpHln99GAlrmyxvves2TStcb1tu/view?usp=share_link)
+![Python Certificate](https://www.hackerrank.com/certificates/iframe/55c5b9565b55)
+![JavaScript Certificate](https://www.hackerrank.com/certificates/iframe/c41871986aa7)
+![ReactJS Certificate](https://www.hackerrank.com/certificates/iframe/f4afcfc0ec35)
 
