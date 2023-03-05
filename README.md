@@ -6,7 +6,7 @@ I am a web developer who has potential in both frontend (client-side) applicatio
 ## 🚀 About Me
 I'm a student majoring in computer science, which is the systematic study of computation and its applications. Algorithms, programming languages, computer systems and architecture, data structures, databases, software engineering, and other subjects are all covered under my major.I'm a student majoring in computer science, which is the systematic study of computation and its applications. Algorithms, programming languages, computer systems and architecture, data structures, databases, software engineering, and other subjects are all covered under my major.
 
-
+![Resume](https://drive.google.com/file/d/19jjlQnv1MbGREY8Lq1prMXAXH1gNrCzC/view?usp=share_link)
 
 
 
@@ -24,3 +24,11 @@ I'm a student majoring in computer science, which is the systematic study of com
 ## 🛠 Skills
  Web Application Development
   · Python (Programming Language) · Java · Object-Oriented Programming (OOP) · MySQL · PostgresDB · React.js · Node.js · ·ExpressJS · JavaScript · TypeScript · HTML5 
+
+## 🛠 Certificates
+
+[View My HackerRank Profile](https://www.hackerrank.com/hady_A_soufan?hr_r=1)
+![Python Certificate](https://drive.google.com/file/d/1hPq6wNAtYDfoGnCYfuKlrznnI0SxisYY/view?usp=sharing)
+![JavaScript Certificate](https://drive.google.com/file/d/110cbcy2OMzV8_ATqPE49kQjmB5PpsIcd/view?usp=share_link)
+![ReactJS Certificate](https://drive.google.com/file/d/1PejC3KpHln99GAlrmyxvves2TStcb1tu/view?usp=share_link)
+
