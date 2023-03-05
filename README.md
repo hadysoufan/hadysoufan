@@ -19,7 +19,7 @@ I'm a student majoring in computer science, which is the systematic study of com
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2367BC63.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hady_A_soufan?hr_r=1)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/20323360/hadi-soufan)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hadi.a.soufan/)
-[![Github](https://img.shields.io/badge/My%20Portfolio-%2312100E.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/hadysoufan)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/hadysoufan)
 
 
 
