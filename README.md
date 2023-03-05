@@ -12,7 +12,7 @@ I'm a student majoring in computer science, which is the systematic study of com
 
 
 ## 🔗 Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Internet-Explorer&logoColor=white)](https://hadysoufan.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=earth&logoColor=white)](https://hadysoufan.github.io/portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadi-soufan-b6011919a/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hadis0ufan)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@hadisoufan)
