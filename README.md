@@ -1,6 +1,6 @@
 
 # Hi, I'm Hadi! 👋
-I am a web developer who has potential in both frontend (client-side) applications and backend (server-side) systems. I am capable of creating full websites. I feel at ease working with the reactJS frontend framework and Django for the backend. Additionally, in my leisure time, I post technical articles to my Medium account.
+I'm a web developer who has potential in both frontend (client-side) applications and backend (server-side) systems. I am capable of creating full websites. I feel at ease working with the reactJS frontend framework and Django for the backend. Additionally, in my leisure time, I post technical articles to my Medium account.
 
 
 ## 🚀 About Me
