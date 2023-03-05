@@ -28,7 +28,8 @@ I'm a student majoring in computer science, which is the systematic study of com
 ## 🛠 Certificates
 
 
-![Python Certificate](![python](https://user-images.githubusercontent.com/110059893/222951533-9d2bef6d-0424-4905-a1d8-ed24be2ff8c6.png))
-![JavaScript Certificate](![javascript](https://user-images.githubusercontent.com/110059893/222951566-ec573196-9998-471f-80d9-3a4ff3d02aec.png))
-![ReactJS Certificate](![react](https://user-images.githubusercontent.com/110059893/222951562-8ab4424f-ee6c-494c-9551-2e83902bf04f.png))
+![python](https://user-images.githubusercontent.com/110059893/222951678-48126889-af80-44f7-a1ec-4c36cc811de5.png)
+![react](https://user-images.githubusercontent.com/110059893/222951679-41ea571e-19a2-426e-b525-d4b670908c5b.png)
+![javascript](https://user-images.githubusercontent.com/110059893/222951684-b806b9e7-24ec-41e1-bebf-d97ca8f0622b.png)
+
 
