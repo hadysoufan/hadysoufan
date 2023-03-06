@@ -29,7 +29,7 @@ I'm a student majoring in computer science, which is the systematic study of com
 
 ## 🛠 Skills
  Web Application Development
-  · Python (Programming Language) · Java · Object-Oriented Programming (OOP) · Django · MySQL · PostgresDB · React.js · Node.js · ·ExpressJS · JavaScript · TypeScript · HTML5 
+  · Python (Programming Language) · Java · Object-Oriented Programming (OOP) · Django · MySQL · PostgresDB · React.js · Node.js · ExpressJS · JavaScript · TypeScript · HTML5 
   
   ## 👨‍💼 Soft Skills
 
