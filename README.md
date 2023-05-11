@@ -9,7 +9,11 @@ I'm a student majoring in computer science, which is the systematic study of com
 [![Download Resume](https://img.shields.io/badge/Download-Resume-green.svg)](https://github.com/hadysoufan/hadysoufan/files/10891469/Resume.pdf)
 
 
+## Experience
 
+April 16 2023
+Full Stack Web Developer at Market Bridge LLC
+Developing full stack web application using ReactJs framework for frontend and Django with PostgresSql for backend systems
 
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Internet-Explorer&logoColor=white)](https://hadysoufan.github.io/portfolio/)
