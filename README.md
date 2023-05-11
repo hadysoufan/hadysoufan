@@ -11,7 +11,7 @@ I'm a student majoring in computer science, which is the systematic study of com
 
 ## 💻 Experience
 
-April 16 2023
+April 16 2023 - 
 Full Stack Web Developer at Market Bridge LLC
 Developing full stack web application using ReactJs framework for frontend and Django with PostgresSql for backend systems
 
