@@ -11,9 +11,22 @@ I'm a student majoring in computer science, which is the systematic study of com
 
 ## 💻 Experience
 
-April 16 2023 - June 5 2023
-Full Stack Web Developer at Market Bridge LLC
-Developing full stack web application using ReactJs framework for frontend and Django with PostgresSql for backend systems
+Full Stack Web Developer
+SimBrain Solutions · Internship
+Jul 2023 - Present
+Ghobeiry, Mount Lebanon Governorate, Lebanon · Hybrid
+Developing full-stack web applications using ASP.NET Core and MySQL
+
+Full Stack Web Developer 
+Market Bridge LLC · Full-time
+Apr 2023 - Jun 2023 · 3 months
+Michigan, United States · Remote
+Creating full-stack web applications using ReactJs and Django frameworks
+
+Full Stack Developer
+Freelance
+Nov 2022 - Feb 2023 · 4 months
+Beirut, Beirut Governorate, Lebanon
 
 ## 🔗 Links
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Internet-Explorer&logoColor=white)](https://hadysoufan.github.io/portfolio/)
