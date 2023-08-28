@@ -6,7 +6,7 @@ I'm a web developer who has potential in both frontend (client-side) application
 ## 🚀 About Me
 I'm a student majoring in computer science, which is the systematic study of computation and its applications. Algorithms, programming languages, computer systems and architecture, data structures, databases, software engineering, and other subjects are all covered under my major.
 
-[![Download Resume](https://github.com/hadysoufan/hadysoufan/files/12450407/CV.pdf)
+[![Download Resume](https://img.shields.io/badge/Download-Resume-green.svg)](https://github.com/hadysoufan/hadysoufan/files/12450407/CV.pdf)
 
 ## 💻 Experience
 
