@@ -45,7 +45,7 @@ Beirut, Beirut Governorate, Lebanon
 
 ## 🛠 Skills
  · Web Application Development
-  · Python · Java · Object-Oriented Programming (OOP) · Django · MySQL · PostgresDB · React.js · Node.js · ExpressJS · JavaScript · TypeScript · HTML5 · CSS · SASS · ASP.NET MVC
+  · Python · Java · Object-Oriented Programming (OOP) · Django · MySQL · PostgresDB · React.js · Node.js · ExpressJS · JavaScript · TypeScript · HTML5 · CSS · SASS · .NET Framwork
   
   ## 👨‍💼 Soft Skills
 
