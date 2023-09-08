@@ -10,19 +10,19 @@ I'm a student majoring in computer science, which is the systematic study of com
 
 ## 💻 Experience
 
-Full Stack Web Developer
+.NET Developer
 SimBrain Solutions · Internship
 Jul 2023 - Present
 Ghobeiry, Mount Lebanon Governorate, Lebanon · Hybrid
 Developing full-stack web applications using ASP.NET Core and MySQL
 
-Full Stack Web Developer 
+ReactJs | Django Developer 
 Market Bridge LLC · Full-time
 Apr 2023 - Jun 2023 · 3 months
 Michigan, United States · Remote
 Creating full-stack web applications using ReactJs and Django frameworks
 
-Full Stack Developer
+ReactJs | Django Developer 
 Freelance
 Nov 2022 - Feb 2023 · 4 months
 Beirut, Beirut Governorate, Lebanon
