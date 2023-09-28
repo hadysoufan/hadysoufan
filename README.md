@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadysoufan" alt="hadysoufan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://hadysoufan.github.io/portfolio/](https://hadysoufan.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://hadysoufan.github.io/portfolio/)
 
-- 📝 I regularly write articles on [https://medium.com/munchy-bytes?source=user_profile---------0----------------------------](https://medium.com/munchy-bytes?source=user_profile---------0----------------------------)
-
-- 📫 How to reach me **https://www.linkedin.com/in/hadi-soufan-b6011919a/**
+- 📝 I regularly write articles on [Medium](https://medium.com/munchy-bytes)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/hadi-soufan-b6011919a)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
