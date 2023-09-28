@@ -1,62 +1,32 @@
+<h1 align="center">Hi 👋, I'm Hadi</h1>
+<h3 align="center">A Software Developer from Lebanon 🇱🇧</h3>
 
-# Hi, I'm Hadi! 👋
-I'm a web developer who has potential in both frontend (client-side) applications and backend (server-side) systems. I am capable of creating full websites. I feel at ease working with the reactJS frontend framework and Django for the backend. Additionally, in my leisure time, I post technical articles to my Medium account.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadysoufan&label=Profile%20views&color=0e75b6&style=flat" alt="hadysoufan" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadysoufan" alt="hadysoufan" /></a> </p>
 
-## 🚀 About Me
-I'm a student majoring in computer science, which is the systematic study of computation and its applications. Algorithms, programming languages, computer systems and architecture, data structures, databases, software engineering, and other subjects are all covered under my major.
+- 👨‍💻 All of my projects are available at [https://hadysoufan.github.io/portfolio/](https://hadysoufan.github.io/portfolio/)
 
-[![Download Resume](https://img.shields.io/badge/Download-Resume-green.svg)](https://github.com/hadysoufan/hadysoufan/files/12450407/CV.pdf)
+- 📝 I regularly write articles on [https://medium.com/munchy-bytes?source=user_profile---------0----------------------------](https://medium.com/munchy-bytes?source=user_profile---------0----------------------------)
 
-## 💻 Experience
+- 📫 How to reach me **https://www.linkedin.com/in/hadi-soufan-b6011919a/**
 
-.NET Developer
-SimBrain Solutions · Internship
-Jul 2023 - Present
-Ghobeiry, Mount Lebanon Governorate, Lebanon · Hybrid
-Developing full-stack web applications using ASP.NET Core and MySQL
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-ReactJs | Django Developer 
-Market Bridge LLC · Full-time
-Apr 2023 - Jun 2023 · 3 months
-Michigan, United States · Remote
-Creating full-stack web applications using ReactJs and Django frameworks
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/hadysoufan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hadysoufan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hadi-soufan-b6011919a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hadi-soufan-b6011919a/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20323360/hadi-soufan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20323360/hadi-soufan" height="30" width="40" /></a>
+<a href="https://instagram.com/hadi.a.soufan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hadi.a.soufan" height="30" width="40" /></a>
+<a href="https://medium.com/@hadisoufan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hadisoufan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/hady_a_soufan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/hady_a_soufan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/hatanstien/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/hatanstien/" height="30" width="40" /></a>
+</p>
 
-ReactJs | Django Developer 
-Freelance
-Nov 2022 - Feb 2023 · 4 months
-Beirut, Beirut Governorate, Lebanon
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-## 🔗 Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=Internet-Explorer&logoColor=white)](https://hadysoufan.github.io/portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadi-soufan-b6011919a/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hadis0ufan)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@hadisoufan)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2367BC63.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hady_A_soufan?hr_r=1)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F58025.svg?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/20323360/hadi-soufan)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hadi.a.soufan/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hadysoufan)
-
-
-
-
-
-
-
-## 🛠 Skills
- · Web Application Development
-  · Python · Java · Object-Oriented Programming (OOP) · Django · MySQL · PostgresDB · React.js · Node.js · ExpressJS · JavaScript · TypeScript · HTML5 · CSS · SASS · .NET Framwork
-  
-  ## 👨‍💼 Soft Skills
-
-Communication skills · Problem-solving · Attention to detail · Time management · Adaptability · Teamwork · Creativity · Leadership · Positive attitude · Learning mindset
-
-## 🎓 Certificates
-![Screenshot 2023-03-05 112023](https://user-images.githubusercontent.com/110059893/222952213-5cab0f9c-93c1-4325-b632-21ba3b8cd460.png)
-![Screenshot 2023-08-28 074553](https://github.com/hadysoufan/hadysoufan/assets/110059893/e9b0171c-bd59-45e8-adcc-f6f55d454398)
-![Screenshot 2023-08-28 074939](https://github.com/hadysoufan/hadysoufan/assets/110059893/32374ada-9ccf-4ae2-a275-8b36dcb15410)
-![python](https://user-images.githubusercontent.com/110059893/222951678-48126889-af80-44f7-a1ec-4c36cc811de5.png)
-![react](https://user-images.githubusercontent.com/110059893/222951679-41ea571e-19a2-426e-b525-d4b670908c5b.png)
-![javascript](https://user-images.githubusercontent.com/110059893/222951684-b806b9e7-24ec-41e1-bebf-d97ca8f0622b.png)
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadysoufan&show_icons=true&locale=en&layout=compact" alt="hadysoufan" /></p>
