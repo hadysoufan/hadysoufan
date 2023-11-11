@@ -19,24 +19,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1iVjqoAxXLhw_Gmq4fl5U9t3t9QH-onrcGHEtEJbBR4I](https://docs.google.com/document/d/1iVjqoAxXLhw_Gmq4fl5U9t3t9QH-onrcGHEtEJbBR4I)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://medium.com/feed/@hadisoufan"
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/hadysoufan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hadysoufan" height="30" width="40" /></a>
